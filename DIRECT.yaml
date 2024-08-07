@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,speedtest.net
   - DOMAIN-SUFFIX,zmpt.cc
   - DOMAIN,time.apple.com
+  - DOMAIN-SUFFIX,pool.ntp.org

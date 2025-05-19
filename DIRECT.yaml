@@ -1,48 +1,50 @@
 payload:
   - DOMAIN-KEYWORD,tracker
-  - DOMAIN-SUFFIX,hhanclub.top
-  - DOMAIN-SUFFIX,hhan.club
-  - DOMAIN-SUFFIX,cyanbug.net
-  - DOMAIN-SUFFIX,hdtime.org
-  - DOMAIN-SUFFIX,piggo.me
-  - DOMAIN-SUFFIX,hdarea.club
-  - DOMAIN-SUFFIX,passthepopcorn.me
-  - DOMAIN-SUFFIX,sjtu.edu.cn
-  - DOMAIN-SUFFIX,beyond-hd.me
-  - DOMAIN-SUFFIX,pterclub.com
-  - DOMAIN-SUFFIX,audiences.me
-  - DOMAIN-SUFFIX,cinefiles.info
-  - DOMAIN-SUFFIX,m-team.cc
-  - DOMAIN-SUFFIX,chdbits.xyz
-  - DOMAIN-SUFFIX,ptchdbits.co
-  - DOMAIN-SUFFIX,rainbowisland.co
-  - DOMAIN-SUFFIX,hdhome.org
-  - DOMAIN-SUFFIX,ilovelemonhd.me
-  - DOMAIN-SUFFIX,tjupt.org
-  - DOMAIN-SUFFIX,btschool.club
-  - DOMAIN-SUFFIX,totheglory.im
-  - DOMAIN-SUFFIX,pthome.org
-  - DOMAIN-SUFFIX,springsunday.net
-  - DOMAIN-SUFFIX,ultrahd.net
-  - DOMAIN-SUFFIX,keepfrds.com
-  - DOMAIN-SUFFIX,leaves.red
-  - DOMAIN-SUFFIX,hdpt.xyz
-  - DOMAIN-SUFFIX,pttime.online
-  - DOMAIN-SUFFIX,hddolby.com
-  - DOMAIN-SUFFIX,agsvpt.work
-  - DOMAIN-SUFFIX,zhuque.in
-  - DOMAIN-SUFFIX,haidan.video
-  - DOMAIN-SUFFIX,hdsky.me
-  - DOMAIN-SUFFIX,htpt.cc
-  - DOMAIN-SUFFIX,ilolicon.cc
-  - DOMAIN-SUFFIX,sunnytk.top
-  - DOMAIN-SUFFIX,ubits.club
-  - DOMAIN-SUFFIX,connects.icu
-  - DOMAIN-SUFFIX,nextpt.net
-  - DOMAIN-SUFFIX,trackers.work
-  - DOMAIN-SUFFIX,tosky.club
-  - DOMAIN-SUFFIX,pttime.org
-  - DOMAIN-SUFFIX,speedtest.net
-  - DOMAIN-SUFFIX,zmpt.cc
-  - DOMAIN,time.apple.com
-  - DOMAIN-SUFFIX,pool.ntp.org
+  - DOMAIN,tracker.hhanclub.top
+  - DOMAIN,tracker.hhan.club
+  - DOMAIN,tracker.cyanbug.net
+  - DOMAIN,tracker.hdtime.org
+  - DOMAIN,tracker.piggo.me
+  - DOMAIN,tracker.hdarea.club
+  - DOMAIN,please.passthepopcorn.me
+  - DOMAIN,tracker.sjtu.edu.cn
+  - DOMAIN,tracker.beyond-hd.me
+  - DOMAIN,tracker.pterclub.com
+  - DOMAIN,t.audiences.me
+  - DOMAIN,tracker.cinefiles.info
+  - DOMAIN,tracker.m-team.cc
+  #彩虹岛域名与tracker同属
+  - DOMAIN,chdbits.xyz
+  - DOMAIN,tracker.ptchdbits.co
+  - DOMAIN,tracker.rainbowisland.co
+  - DOMAIN,t.hdhome.org
+  #我堡域名、tracker同属
+  - DOMAIN,tracker01.ilovelemonhd.me
+  - DOMAIN,tracker-public.tjupt.org
+  #学校域名、tracker同属
+  - DOMAIN,pt.btschool.club
+  - DOMAIN,tracker.totheglory.im
+  - DOMAIN,t.pthome.org
+  - DOMAIN,on.springsunday.net
+  #ultrahd域名、tracker同属
+  - DOMAIN,ultrahd.net
+  - DOMAIN,tracker.keepfrds.com
+  - DOMAIN,tracker.leaves.red
+  - DOMAIN,tracker2.leaves.red
+  - DOMAIN,tracker3.leaves.red
+  #明教域名、tracker同属
+  - DOMAIN,hdpt.xyz
+  #PT时间域名、tracker同属
+  - DOMAIN,www.pttime.online
+  - DOMAIN,t.hddolby.com
+  - DOMAIN,tracker.agsvpt.work
+  - DOMAIN,tracker.zhuque.in
+  - DOMAIN,announce.haidan.video
+  - DOMAIN,tracker.hdsky.me
+  #海棠域名、tracker同属
+  - DOMAIN,www.htpt.cc
+  - DOMAIN,tracker.ilolicon.cc
+  - DOMAIN,sunnytk.top
+  - DOMAIN,t.ubits.club
+  - DOMAIN,connects.icu
+  - DOMAIN,nextpt.net

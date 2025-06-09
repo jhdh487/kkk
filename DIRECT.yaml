@@ -49,3 +49,5 @@ payload:
   - DOMAIN,connects.icu
   - DOMAIN,nextpt.net
   - DOMAIN,ourbits.club
+  - DOMAIN-SUFFIX,dns.alidns.com
+  - DOMAIN-SUFFIX,doh.pub

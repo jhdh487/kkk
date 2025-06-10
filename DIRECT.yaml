@@ -51,3 +51,6 @@ payload:
   - DOMAIN,ourbits.club
    #sun-panel
   - DOMAIN,auth.sun-panel.top
+  #dns
+  - DOMAIN-SUFFIX,dns.alidns.com
+  - DOMAIN-SUFFIX,doh.pub

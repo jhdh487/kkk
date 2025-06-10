@@ -49,3 +49,5 @@ payload:
   - DOMAIN,connects.icu
   - DOMAIN,nextpt.net
   - DOMAIN,ourbits.club
+   #sun-panel
+  - DOMAIN,auth.sun-panel.top
